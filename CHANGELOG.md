@@ -177,3 +177,4 @@
 - *(misc)* CI Merge sequencer plugin unit and acceptance jobs (#4048)
 - *(misc)* Maru break down integration tests into smaller chunks (#4049)
 - *(coordinator)* Tidy up move DB sql files to db/coordinator (#4068)
+- *(misc)* Update gradle besu plugin to v0.3.0 (#4072)
